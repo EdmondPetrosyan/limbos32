@@ -6,4 +6,7 @@ https://www.youtube.com/watch?v=-wIFRrwhCh0
 **ONLY WORKING ON WINDOWS 10/11**
 
 ## HOW TO RUN
-open the file then double click FOCUS.bat and play
+Open the limbos32 folder and extract the contents then run the FOCUS.bat file
+
+# Extra Info
+The FOCUS.bat file runs server.exe and spawn-all.exe
